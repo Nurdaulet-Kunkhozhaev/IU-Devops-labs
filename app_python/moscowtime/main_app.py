@@ -1,7 +1,7 @@
 import pytz
 
 from datetime import datetime
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 from prometheus_flask_exporter import PrometheusMetrics
 
 app = Flask(__name__)
