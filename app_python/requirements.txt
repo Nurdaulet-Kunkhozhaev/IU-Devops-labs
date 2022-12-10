@@ -1,3 +1,4 @@
 pytz
 Flask
 pytest
+prometheus-flask-exporter
