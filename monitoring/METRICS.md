@@ -1,0 +1,2 @@
+![Alt text](https://github.com/Nurdaulet-Kunkhozhaev/IU-Devops-labs/blob/lab_8/monitoring/Metrics.png)
+![Alt text](https://github.com/Nurdaulet-Kunkhozhaev/IU-Devops-labs/blob/lab_8/monitoring/Loki_Prometheus.png)
